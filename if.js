@@ -4,5 +4,7 @@ if (pokemon == "Pikachu") {
   console.log("I choose you Pikachu!!")
 }
 
-if 
+function takeANumber(n) {
+  if (n )
+}
 
