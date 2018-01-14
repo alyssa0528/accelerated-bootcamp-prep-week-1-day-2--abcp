@@ -8,7 +8,7 @@ function takeANumber(n) {
   if (n > 10) {
     return n;
   } else {
-    
+    return "Sorry, that phrase is "
   }
   }
 }
