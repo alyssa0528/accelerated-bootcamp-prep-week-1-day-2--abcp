@@ -5,6 +5,11 @@ if (pokemon == "Pikachu") {
 }
 
 function takeANumber(n) {
-  if (n )
+  if (n > 10) {
+    return n;
+  } else {
+    
+  }
+  }
 }
 
